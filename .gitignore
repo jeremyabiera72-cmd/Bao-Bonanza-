@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+.python_install/
+.buildozer_venv/
+
+# Build / packaging
+.buildozer/
+bin/
+*.apk
+*.zip
+p4a_local_recipes/
+
+# IDE
+.idea/
+
+# Test copy
+BaoBonanza - test/
+
+# Lock files (optional local tooling)
+uv.lock
